@@ -1,5 +1,10 @@
 body {
-  background-color: #5e54be;}
+  background-image: url(Periodic2.jpg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+}
+
  /* Popup container - can be anything you want */
  .popup { 
   left: 20%;
